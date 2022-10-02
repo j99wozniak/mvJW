@@ -1,5 +1,7 @@
 package pl.edu.wszib;
 
+import pl.edu.wszib.szejki.*;
+
 /**
  * Hello world!
  *
@@ -21,5 +23,7 @@ public class App
         myClass.run4();
         myClass.run();
 
+        ShakeTruskawkowy shakeTruskawkowy = new ShakeTruskawkowy();
+        shakeTruskawkowy.main();
     }
 }

@@ -1,6 +1,6 @@
 package pl.edu.wszib;
 
-public abstract class MyClass {
+public abstract class MyClass{
         private String field1;
         String field2;
         protected String field3;
