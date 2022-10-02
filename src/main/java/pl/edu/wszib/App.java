@@ -24,6 +24,8 @@ public class App
         myClass.run();
 
         ShakeTruskawkowy shakeTruskawkowy = new ShakeTruskawkowy();
-        shakeTruskawkowy.main();
+        shakeTruskawkowy.pij();
+        shakeTruskawkowy.jedz();
+        shakeTruskawkowy.smak();
     }
 }

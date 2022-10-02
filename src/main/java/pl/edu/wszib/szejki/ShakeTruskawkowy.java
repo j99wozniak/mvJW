@@ -9,11 +9,4 @@ public class ShakeTruskawkowy extends Shake implements Smak{
         System.out.println("Smak smak smak (truskawkowy)");
     }
 
-    public void main(){
-
-        pij();
-        jedz();
-        smak();
-    }
-
 }
